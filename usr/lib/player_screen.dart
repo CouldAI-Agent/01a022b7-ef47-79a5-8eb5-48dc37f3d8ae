@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models.dart';
+import 'models.dart';
 
 class PlayerScreen extends StatefulWidget {
   const PlayerScreen({super.key});
